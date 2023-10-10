@@ -1,0 +1,101 @@
+id,name,description,price,category
+1,Product 1,This is the first product,29.99,Electronics
+2,Product 2,A second product for testing,49.99,Clothing
+3,Product 3,Another sample product,9.99,Home & Garden
+4,Product 4,Test product with a longer description,79.99,Electronics
+5,Product 5,Sample product in a different category,14.99,Toys
+6,Product 6,Yet another product to consider,39.99,Electronics
+7,Product 7,Product with a very long description that spans multiple lines,59.99,Clothing
+8,Product 8,Simple product with a short description,19.99,Home & Garden
+9,Product 9,Compact product for your needs,24.99,Toys
+10,Product 10,Product with a generic name,12.99,Electronics
+11,Product 11,High-end product with advanced features,249.99,Electronics
+12,Product 12,Basic product for everyday use,9.99,Home & Garden
+13,Product 13,Elegant product for special occasions,79.99,Clothing
+14,Product 14,Functional product for practical needs,34.99,Electronics
+15,Product 15,Unique product with a distinct design,19.99,Toys
+16,Product 16,Product with a stylish appearance,64.99,Clothing
+17,Product 17,Product designed for durability,44.99,Home & Garden
+18,Product 18,Product with customizable options,79.99,Electronics
+19,Product 19,Product with a minimalist design,29.99,Electronics
+20,Product 20,Product with innovative technology,99.99,Electronics
+21,Product 21,Compact product with a sleek look,14.99,Toys
+22,Product 22,Product with a modern aesthetic,74.99,Clothing
+23,Product 23,Product suitable for various purposes,39.99,Home & Garden
+24,Product 24,Product designed for convenience,49.99,Electronics
+25,Product 25,Product with a classic design,19.99,Clothing
+26,Product 26,Product with advanced features,129.99,Electronics
+27,Product 27,Product with a retro look,59.99,Toys
+28,Product 28,Product with timeless appeal,89.99,Clothing
+29,Product 29,Product for outdoor enthusiasts,79.99,Home & Garden
+30,Product 30,Product with user-friendly interface,69.99,Electronics
+31,Product 31,Product for creative individuals,24.99,Toys
+32,Product 32,Product designed for comfort,34.99,Clothing
+33,Product 33,Product with premium materials,119.99,Electronics
+34,Product 34,Product with a natural finish,49.99,Home & Garden
+35,Product 35,Product with cutting-edge technology,179.99,Electronics
+36,Product 36,Product with a rustic charm,29.99,Clothing
+37,Product 37,Product with a contemporary design,59.99,Electronics
+38,Product 38,Product with an eco-friendly focus,44.99,Home & Garden
+39,Product 39,Product with a futuristic look,89.99,Electronics
+40,Product 40,Product with a vintage feel,69.99,Clothing
+41,Product 41,Product for gardening enthusiasts,14.99,Home & Garden
+42,Product 42,Product with a sleek and slim profile,49.99,Electronics
+43,Product 43,Product with a minimalist aesthetic,39.99,Toys
+44,Product 44,Product with a vibrant color scheme,19.99,Clothing
+45,Product 45,Product with a timeless design,99.99,Electronics
+46,Product 46,Product designed for versatility,29.99,Electronics
+47,Product 47,Product for outdoor adventures,79.99,Toys
+48,Product 48,Product with a contemporary flair,54.99,Clothing
+49,Product 49,Product with a sophisticated look,69.99,Home & Garden
+50,Product 50,Product with advanced functionalities,129.99,Electronics
+51,Product 51,Product with ergonomic design,44.99,Electronics
+52,Product 52,Product for hobbyists and collectors,19.99,Toys
+53,Product 53,Product with a luxury touch,149.99,Clothing
+54,Product 54,Product for eco-conscious consumers,34.99,Home & Garden
+55,Product 55,Product with intuitive controls,79.99,Electronics
+56,Product 56,Product with a traditional style,29.99,Clothing
+57,Product 57,Product with enhanced performance,99.99,Electronics
+58,Product 58,Product designed for practicality,49.99,Home & Garden
+59,Product 59,Product with premium craftsmanship,149.99,Electronics
+60,Product 60,Product with a unique design,59.99,Toys
+61,Product 61,Product with a contemporary touch,79.99,Clothing
+62,Product 62,Product with a durable build,34.99,Electronics
+63,Product 63,Product for creative minds,24.99,Toys
+64,Product 64,Product with a classic charm,69.99,Home & Garden
+65,Product 65,Product with innovative features,159.99,Electronics
+66,Product 66,Product for DIY enthusiasts,19.99,Clothing
+67,Product 67,Product with a minimalist look,29.99,Clothing
+68,Product 68,Product with advanced technology,99.99,Electronics
+69,Product 69,Product with a stylish design,49.99,Home & Garden
+70,Product 70,Product with versatile functionality,44.99,Electronics
+71,Product 71,Product with eco-friendly materials,69.99,Toys
+72,Product 72,Product with a sleek appearance,39.99,Clothing
+73,Product 73,Product with a modern touch,79.99,Electronics
+74,Product 74,Product for outdoor enthusiasts,49.99,Home & Garden
+75,Product 75,Product with user-friendly features,129.99,Electronics
+76,Product 76,Product with a natural look,19.99,Clothing
+77,Product 77,Product with cutting-edge innovations,179.99,Electronics
+78,Product 78,Product with a rustic style,29.99,Toys
+79,Product 79,Product with timeless elegance,69.99,Clothing
+80,Product 80,Product for gardening lovers,14.99,Home & Garden
+81,Product 81,Product with a slim and compact design,44.99,Electronics
+82,Product 82,Product with a minimalist style,39.99,Clothing
+83,Product 83,Product with vibrant colors,24.99,Toys
+84,Product 84,Product with a classic touch,59.99,Electronics
+85,Product 85,Product with versatile applications,99.99,Home & Garden
+86,Product 86,Product with a futuristic aesthetic,64.99,Electronics
+87,Product 87,Product with an eco-conscious focus,74.99,Electronics
+88,Product 88,Product with a vintage touch,89.99,Toys
+89,Product 89,Product with a contemporary twist,49.99,Clothing
+90,Product 90,Product with a timeless appeal,79.99,Electronics
+91,Product 91,Product designed for efficiency,39.99,Home & Garden
+92,Product 92,Product with advanced engineering,139.99,Electronics
+93,Product 93,Product for tech-savvy individuals,49.99,Electronics
+94,Product 94,Product with a minimalist approach,34.99,Clothing
+95,Product 95,Product for DIY projects,19.99,Toys
+96,Product 96,Product with a classic elegance,94.99,Clothing
+97,Product 97,Product with innovative solutions,179.99,Electronics
+98,Product 98,Product with eco-friendly features,59.99,Home & Garden
+99,Product 99,Product with a modern design,74.99,Electronics
+100,Product 100,Product for outdoor activities,69.99,Toys
