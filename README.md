@@ -15,6 +15,13 @@ uvicorn main:app --host "localhost" --port 8088
 - Python 3.9+
 - MongoDB server (running locally, you can modify its host & port in the config.ini)
 
+### To-Dos:
+- Create Docker configuration files (Dockerfile, docker-compose.yml) for deployment
+- Define response models for API response validation
+- Use of MongoDB connection pool and asynchronous MongoDB client (Using motor instead of pymongo?)
+- Add docstrings and inline comments
+- "_id" should be default(automatically generated) or auto-incrementing. (Currently, it takes from the user as 1. CSV contains the id column, 2. We need this id to get/update/delete a specific product.)
+
 ### How to test:
 ```
 pytest test_main.py
